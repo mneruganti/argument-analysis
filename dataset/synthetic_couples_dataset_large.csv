@@ -1,0 +1,725 @@
+id,conversation,labels
+362,"Partner: (Looks at phone and doesn’t respond)
+Partner: You never think about anyone but me.","stonewalling,criticism"
+74,"Partner: Whatever, I'm clearly better than you.
+Partner: This is just like you to screw things up.","contempt,criticism"
+375,Partner: (Silence),stonewalling
+156,Partner: You disgust me when you act like this.,contempt
+105,Partner: Why are you like this all the time?,criticism
+395,"Partner: I only said that because you upset me.
+Partner: (Ignores the question entirely)","defensiveness,stonewalling"
+378,"Partner: You never take my feelings seriously.
+Partner: I guess everything is always my fault.","criticism,defensiveness"
+125,Partner: Why are you blaming me again?,defensiveness
+69,"Partner: Whatever, I'm clearly better than you.",contempt
+451,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+10,"Partner: Why are you like this all the time?
+Partner: Whatever, I'm clearly better than you.","criticism,contempt"
+195,Partner: You misunderstood everything I said.,defensiveness
+407,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+85,"Partner: I guess everything is always my fault.
+Partner: This is just like you to screw things up.","defensiveness,criticism"
+372,"Partner: (Silence)
+Partner: This is just like you to screw things up.","stonewalling,criticism"
+389,Partner: You’re impossible to talk to.,criticism
+496,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+31,Partner: Why are you blaming me again?,defensiveness
+317,"Partner: This is just like you to screw things up.
+Partner: I only said that because you upset me.","criticism,defensiveness"
+409,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+491,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+492,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+281,Partner: You never take my feelings seriously.,criticism
+357,Partner: I only said that because you upset me.,defensiveness
+77,Partner: You misunderstood everything I said.,defensiveness
+462,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+498,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+212,"Partner: You’re impossible to talk to.
+Partner: (Gets up and walks away mid-conversation)","criticism,stonewalling"
+102,"Partner: I only said that because you upset me.
+Partner: This is just like you to screw things up.","defensiveness,criticism"
+335,Partner: (Silence),stonewalling
+476,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+337,Partner: You always do this—you're so selfish.,criticism
+441,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+174,Partner: You always do this—you're so selfish.,criticism
+3,Partner: Why are you blaming me again?,defensiveness
+334,Partner: You misunderstood everything I said.,defensiveness
+410,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+71,"Partner: You really are such a child.
+Partner: You always do this—you're so selfish.","contempt,criticism"
+210,"Partner: This is just like you to screw things up.
+Partner: (Ignores the question entirely)","criticism,stonewalling"
+64,"Partner: Why are you blaming me again?
+Partner: You never take my feelings seriously.","defensiveness,criticism"
+385,Partner: You never think about anyone but me.,criticism
+94,Partner: You always do this—you're so selfish.,criticism
+486,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+186,Partner: (Leaves the room),stonewalling
+34,Partner: (Silence),stonewalling
+78,"Partner: It’s not my fault, you started it!",defensiveness
+1,Partner: You’re impossible to talk to.,criticism
+12,Partner: Why are you like this all the time?,criticism
+416,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+23,Partner: You misunderstood everything I said.,defensiveness
+73,Partner: You disgust me when you act like this.,contempt
+183,"Partner: Why are you like this all the time?
+Partner: You really are such a child.","criticism,contempt"
+132,Partner: (Looks at phone and doesn’t respond),stonewalling
+411,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+194,Partner: You really are such a child.,contempt
+56,"Partner: I guess everything is always my fault.
+Partner: You're the laziest person I know.","defensiveness,contempt"
+149,"Partner: Wow, how smart of you. Not.
+Partner: I only said that because you upset me.","contempt,defensiveness"
+19,"Partner: I only said that because you upset me.
+Partner: (Looks at phone and doesn’t respond)","defensiveness,stonewalling"
+205,Partner: I guess everything is always my fault.,defensiveness
+79,Partner: (Ignores the question entirely),stonewalling
+495,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+263,Partner: You’re impossible to talk to.,criticism
+324,"Partner: You’re impossible to talk to.
+Partner: (Gets up and walks away mid-conversation)","criticism,stonewalling"
+484,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+80,Partner: Why are you like this all the time?,criticism
+40,Partner: (Looks at phone and doesn’t respond),stonewalling
+452,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+47,Partner: You're the laziest person I know.,contempt
+239,"Partner: (Gets up and walks away mid-conversation)
+Partner: Maybe listen to yourself before judging me.","stonewalling,defensiveness"
+392,Partner: You never think about anyone but me.,criticism
+353,"Partner: I only said that because you upset me.
+Partner: Why are you like this all the time?","defensiveness,criticism"
+342,"Partner: (Gets up and walks away mid-conversation)
+Partner: You disgust me when you act like this.","stonewalling,contempt"
+278,Partner: (Leaves the room),stonewalling
+291,"Partner: This is just like you to screw things up.
+Partner: It’s not my fault, you started it!","criticism,defensiveness"
+318,Partner: You never take my feelings seriously.,criticism
+305,Partner: You disgust me when you act like this.,contempt
+269,Partner: You always do this—you're so selfish.,criticism
+70,Partner: (Looks at phone and doesn’t respond),stonewalling
+456,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+466,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+155,"Partner: It’s not my fault, you started it!",defensiveness
+83,"Partner: You really are such a child.
+Partner: This is just like you to screw things up.","contempt,criticism"
+478,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+173,"Partner: (Rolls eyes and says nothing)
+Partner: Why are you like this all the time?","stonewalling,criticism"
+322,Partner: You never take my feelings seriously.,criticism
+91,"Partner: It’s not my fault, you started it!
+Partner: (Gets up and walks away mid-conversation)","defensiveness,stonewalling"
+181,Partner: Why are you blaming me again?,defensiveness
+415,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+313,Partner: You’re impossible to talk to.,criticism
+279,"Partner: Maybe listen to yourself before judging me.
+Partner: You’re impossible to talk to.","defensiveness,criticism"
+382,Partner: I guess everything is always my fault.,defensiveness
+473,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+363,"Partner: It’s not my fault, you started it!",defensiveness
+325,"Partner: (Gets up and walks away mid-conversation)
+Partner: This is just like you to screw things up.","stonewalling,criticism"
+432,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+348,Partner: (Leaves the room),stonewalling
+87,Partner: (Looks at phone and doesn’t respond),stonewalling
+76,Partner: Why are you like this all the time?,criticism
+439,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+16,"Partner: I guess everything is always my fault.
+Partner: (Rolls eyes and says nothing)","defensiveness,stonewalling"
+250,"Partner: You're the laziest person I know.
+Partner: Maybe listen to yourself before judging me.","contempt,defensiveness"
+434,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+20,Partner: I guess everything is always my fault.,defensiveness
+323,"Partner: (Rolls eyes and says nothing)
+Partner: You never take my feelings seriously.","stonewalling,criticism"
+333,Partner: Maybe listen to yourself before judging me.,defensiveness
+57,Partner: (Looks at phone and doesn’t respond),stonewalling
+302,"Partner: I only said that because you upset me.
+Partner: You never think about anyone but me.","defensiveness,criticism"
+230,Partner: You disgust me when you act like this.,contempt
+332,Partner: You always do this—you're so selfish.,criticism
+133,"Partner: (Looks at phone and doesn’t respond)
+Partner: You don't even try. It's pathetic.","stonewalling,contempt"
+138,"Partner: You disgust me when you act like this.
+Partner: (Looks at phone and doesn’t respond)","contempt,stonewalling"
+424,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+336,Partner: You misunderstood everything I said.,defensiveness
+26,Partner: You really are such a child.,contempt
+465,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+282,"Partner: Whatever, I'm clearly better than you.",contempt
+248,"Partner: Wow, how smart of you. Not.",contempt
+238,Partner: (Rolls eyes and says nothing),stonewalling
+118,Partner: I guess everything is always my fault.,defensiveness
+43,"Partner: It’s not my fault, you started it!",defensiveness
+221,"Partner: This is just like you to screw things up.
+Partner: (Ignores the question entirely)","criticism,stonewalling"
+177,"Partner: Why are you blaming me again?
+Partner: You never take my feelings seriously.","defensiveness,criticism"
+321,"Partner: I only said that because you upset me.
+Partner: Wow, how smart of you. Not.","defensiveness,contempt"
+154,Partner: Maybe listen to yourself before judging me.,defensiveness
+232,Partner: You never think about anyone but me.,criticism
+228,Partner: Maybe listen to yourself before judging me.,defensiveness
+418,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+204,Partner: (Ignores the question entirely),stonewalling
+127,"Partner: Whatever, I'm clearly better than you.",contempt
+330,Partner: You don't even try. It's pathetic.,contempt
+32,Partner: (Ignores the question entirely),stonewalling
+114,Partner: (Leaves the room),stonewalling
+471,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+272,Partner: (Gets up and walks away mid-conversation),stonewalling
+141,Partner: You're the laziest person I know.,contempt
+58,Partner: (Looks at phone and doesn’t respond),stonewalling
+193,Partner: This is just like you to screw things up.,criticism
+25,Partner: You never take my feelings seriously.,criticism
+18,Partner: (Leaves the room),stonewalling
+266,Partner: This is just like you to screw things up.,criticism
+67,Partner: (Leaves the room),stonewalling
+209,Partner: You’re impossible to talk to.,criticism
+480,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+95,Partner: You always do this—you're so selfish.,criticism
+254,"Partner: (Silence)
+Partner: You disgust me when you act like this.","stonewalling,contempt"
+267,"Partner: Why are you blaming me again?
+Partner: You're the laziest person I know.","defensiveness,contempt"
+24,Partner: (Rolls eyes and says nothing),stonewalling
+223,"Partner: Whatever, I'm clearly better than you.
+Partner: (Ignores the question entirely)","contempt,stonewalling"
+262,Partner: (Rolls eyes and says nothing),stonewalling
+427,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+6,Partner: (Silence),stonewalling
+117,Partner: Why are you blaming me again?,defensiveness
+46,"Partner: You're the laziest person I know.
+Partner: (Leaves the room)","contempt,stonewalling"
+17,"Partner: You disgust me when you act like this.
+Partner: I guess everything is always my fault.","contempt,defensiveness"
+463,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+358,"Partner: You always do this—you're so selfish.
+Partner: (Gets up and walks away mid-conversation)","criticism,stonewalling"
+4,Partner: This is just like you to screw things up.,criticism
+219,Partner: (Leaves the room),stonewalling
+406,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+61,"Partner: (Rolls eyes and says nothing)
+Partner: Wow, how smart of you. Not.","stonewalling,contempt"
+111,"Partner: Wow, how smart of you. Not.",contempt
+319,Partner: (Ignores the question entirely),stonewalling
+429,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+30,"Partner: You're the laziest person I know.
+Partner: (Looks at phone and doesn’t respond)","contempt,stonewalling"
+438,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+472,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+27,Partner: You don't even try. It's pathetic.,contempt
+8,Partner: (Rolls eyes and says nothing),stonewalling
+454,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+109,"Partner: Whatever, I'm clearly better than you.
+Partner: This is just like you to screw things up.","contempt,criticism"
+38,Partner: You always do this—you're so selfish.,criticism
+158,Partner: (Looks at phone and doesn’t respond),stonewalling
+490,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+119,"Partner: Whatever, I'm clearly better than you.",contempt
+115,"Partner: It’s not my fault, you started it!
+Partner: (Rolls eyes and says nothing)","defensiveness,stonewalling"
+176,Partner: This is just like you to screw things up.,criticism
+374,Partner: You disgust me when you act like this.,contempt
+182,"Partner: You're the laziest person I know.
+Partner: You always do this—you're so selfish.","contempt,criticism"
+145,Partner: Why are you blaming me again?,defensiveness
+370,Partner: You’re impossible to talk to.,criticism
+391,Partner: (Leaves the room),stonewalling
+196,"Partner: You never take my feelings seriously.
+Partner: (Looks at phone and doesn’t respond)","criticism,stonewalling"
+405,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+276,"Partner: (Silence)
+Partner: You misunderstood everything I said.","stonewalling,defensiveness"
+455,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+142,Partner: (Looks at phone and doesn’t respond),stonewalling
+366,"Partner: Maybe listen to yourself before judging me.
+Partner: (Gets up and walks away mid-conversation)","defensiveness,stonewalling"
+68,Partner: You never think about anyone but me.,criticism
+211,Partner: This is just like you to screw things up.,criticism
+169,Partner: Maybe listen to yourself before judging me.,defensiveness
+494,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+376,"Partner: Whatever, I'm clearly better than you.",contempt
+401,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+273,Partner: This is just like you to screw things up.,criticism
+110,Partner: You never think about anyone but me.,criticism
+249,"Partner: (Ignores the question entirely)
+Partner: You disgust me when you act like this.","stonewalling,contempt"
+146,Partner: This is just like you to screw things up.,criticism
+93,Partner: (Looks at phone and doesn’t respond),stonewalling
+153,Partner: You're the laziest person I know.,contempt
+368,Partner: (Gets up and walks away mid-conversation),stonewalling
+468,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+84,Partner: This is just like you to screw things up.,criticism
+246,"Partner: You never take my feelings seriously.
+Partner: (Gets up and walks away mid-conversation)","criticism,stonewalling"
+166,"Partner: Whatever, I'm clearly better than you.",contempt
+164,"Partner: Whatever, I'm clearly better than you.",contempt
+200,Partner: (Looks at phone and doesn’t respond),stonewalling
+229,"Partner: Whatever, I'm clearly better than you.",contempt
+75,Partner: You don't even try. It's pathetic.,contempt
+479,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+359,Partner: This is just like you to screw things up.,criticism
+251,Partner: You don't even try. It's pathetic.,contempt
+120,"Partner: (Looks at phone and doesn’t respond)
+Partner: Why are you blaming me again?","stonewalling,defensiveness"
+311,Partner: Maybe listen to yourself before judging me.,defensiveness
+300,"Partner: I only said that because you upset me.
+Partner: (Leaves the room)","defensiveness,stonewalling"
+256,Partner: You're the laziest person I know.,contempt
+355,"Partner: Why are you blaming me again?
+Partner: This is just like you to screw things up.","defensiveness,criticism"
+400,"Partner: You disgust me when you act like this.
+Partner: You never take my feelings seriously.","contempt,criticism"
+226,Partner: (Ignores the question entirely),stonewalling
+354,"Partner: You never take my feelings seriously.
+Partner: Whatever, I'm clearly better than you.","criticism,contempt"
+235,"Partner: You never take my feelings seriously.
+Partner: Whatever, I'm clearly better than you.","criticism,contempt"
+383,"Partner: It’s not my fault, you started it!",defensiveness
+275,"Partner: Why are you blaming me again?
+Partner: (Gets up and walks away mid-conversation)","defensiveness,stonewalling"
+37,Partner: Maybe listen to yourself before judging me.,defensiveness
+197,"Partner: Wow, how smart of you. Not.
+Partner: (Looks at phone and doesn’t respond)","contempt,stonewalling"
+140,Partner: This is just like you to screw things up.,criticism
+365,Partner: Why are you blaming me again?,defensiveness
+245,"Partner: You misunderstood everything I said.
+Partner: (Silence)","defensiveness,stonewalling"
+440,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+287,Partner: I only said that because you upset me.,defensiveness
+60,"Partner: You always do this—you're so selfish.
+Partner: I only said that because you upset me.","criticism,defensiveness"
+112,"Partner: It’s not my fault, you started it!",defensiveness
+90,Partner: (Silence),stonewalling
+437,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+7,"Partner: (Looks at phone and doesn’t respond)
+Partner: Why are you like this all the time?","stonewalling,criticism"
+361,Partner: You never think about anyone but me.,criticism
+347,"Partner: Whatever, I'm clearly better than you.",contempt
+339,Partner: You never take my feelings seriously.,criticism
+159,Partner: You're the laziest person I know.,contempt
+151,"Partner: Whatever, I'm clearly better than you.",contempt
+178,"Partner: You disgust me when you act like this.
+Partner: (Rolls eyes and says nothing)","contempt,stonewalling"
+394,"Partner: You disgust me when you act like this.
+Partner: You always do this—you're so selfish.","contempt,criticism"
+185,Partner: You never take my feelings seriously.,criticism
+450,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+11,Partner: You don't even try. It's pathetic.,contempt
+381,"Partner: Wow, how smart of you. Not.",contempt
+104,"Partner: You never take my feelings seriously.
+Partner: Maybe listen to yourself before judging me.","criticism,defensiveness"
+82,Partner: You’re impossible to talk to.,criticism
+39,"Partner: It’s not my fault, you started it!",defensiveness
+315,Partner: You don't even try. It's pathetic.,contempt
+168,"Partner: (Ignores the question entirely)
+Partner: I guess everything is always my fault.","stonewalling,defensiveness"
+470,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+297,Partner: I guess everything is always my fault.,defensiveness
+475,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+199,Partner: You never take my feelings seriously.,criticism
+298,Partner: (Silence),stonewalling
+417,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+147,Partner: I guess everything is always my fault.,defensiveness
+393,"Partner: It’s not my fault, you started it!
+Partner: (Looks at phone and doesn’t respond)","defensiveness,stonewalling"
+148,"Partner: (Gets up and walks away mid-conversation)
+Partner: I only said that because you upset me.","stonewalling,defensiveness"
+448,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+288,"Partner: You misunderstood everything I said.
+Partner: (Looks at phone and doesn’t respond)","defensiveness,stonewalling"
+124,"Partner: You misunderstood everything I said.
+Partner: (Looks at phone and doesn’t respond)","defensiveness,stonewalling"
+369,Partner: You're the laziest person I know.,contempt
+97,"Partner: You never take my feelings seriously.
+Partner: Whatever, I'm clearly better than you.","criticism,contempt"
+144,Partner: Why are you like this all the time?,criticism
+240,Partner: You always do this—you're so selfish.,criticism
+443,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+98,Partner: (Ignores the question entirely),stonewalling
+408,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+123,Partner: (Ignores the question entirely),stonewalling
+184,"Partner: You’re impossible to talk to.
+Partner: You really are such a child.","criticism,contempt"
+203,"Partner: You always do this—you're so selfish.
+Partner: Wow, how smart of you. Not.","criticism,contempt"
+247,"Partner: (Silence)
+Partner: Why are you like this all the time?","stonewalling,criticism"
+306,Partner: You never think about anyone but me.,criticism
+299,Partner: (Rolls eyes and says nothing),stonewalling
+352,Partner: (Gets up and walks away mid-conversation),stonewalling
+387,Partner: You disgust me when you act like this.,contempt
+396,"Partner: Whatever, I'm clearly better than you.",contempt
+285,Partner: Why are you like this all the time?,criticism
+126,"Partner: You disgust me when you act like this.
+Partner: (Rolls eyes and says nothing)","contempt,stonewalling"
+303,Partner: (Rolls eyes and says nothing),stonewalling
+224,Partner: You always do this—you're so selfish.,criticism
+419,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+220,"Partner: (Rolls eyes and says nothing)
+Partner: Whatever, I'm clearly better than you.","stonewalling,contempt"
+130,Partner: Why are you like this all the time?,criticism
+421,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+290,Partner: (Gets up and walks away mid-conversation),stonewalling
+445,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+377,"Partner: (Rolls eyes and says nothing)
+Partner: Why are you blaming me again?","stonewalling,defensiveness"
+292,Partner: I guess everything is always my fault.,defensiveness
+356,Partner: I only said that because you upset me.,defensiveness
+295,Partner: You don't even try. It's pathetic.,contempt
+397,Partner: (Rolls eyes and says nothing),stonewalling
+341,Partner: You don't even try. It's pathetic.,contempt
+113,Partner: (Rolls eyes and says nothing),stonewalling
+180,"Partner: Wow, how smart of you. Not.",contempt
+308,Partner: (Leaves the room),stonewalling
+433,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+488,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+482,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+423,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+234,"Partner: (Ignores the question entirely)
+Partner: I only said that because you upset me.","stonewalling,defensiveness"
+312,Partner: You’re impossible to talk to.,criticism
+165,"Partner: Wow, how smart of you. Not.",contempt
+137,Partner: You misunderstood everything I said.,defensiveness
+198,Partner: You're the laziest person I know.,contempt
+259,"Partner: (Leaves the room)
+Partner: You’re impossible to talk to.","stonewalling,criticism"
+233,"Partner: Whatever, I'm clearly better than you.
+Partner: (Leaves the room)","contempt,stonewalling"
+116,"Partner: Why are you blaming me again?
+Partner: (Leaves the room)","defensiveness,stonewalling"
+121,"Partner: I guess everything is always my fault.
+Partner: Whatever, I'm clearly better than you.","defensiveness,contempt"
+350,Partner: I guess everything is always my fault.,defensiveness
+225,"Partner: Wow, how smart of you. Not.",contempt
+403,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+398,Partner: You misunderstood everything I said.,defensiveness
+128,Partner: You don't even try. It's pathetic.,contempt
+286,Partner: Maybe listen to yourself before judging me.,defensiveness
+412,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+108,Partner: You misunderstood everything I said.,defensiveness
+371,"Partner: It’s not my fault, you started it!",defensiveness
+326,Partner: You misunderstood everything I said.,defensiveness
+134,Partner: I guess everything is always my fault.,defensiveness
+453,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+45,Partner: (Silence),stonewalling
+461,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+66,Partner: (Gets up and walks away mid-conversation),stonewalling
+284,Partner: You never take my feelings seriously.,criticism
+86,"Partner: You misunderstood everything I said.
+Partner: You never think about anyone but me.","defensiveness,criticism"
+243,"Partner: You always do this—you're so selfish.
+Partner: (Ignores the question entirely)","criticism,stonewalling"
+187,Partner: This is just like you to screw things up.,criticism
+384,"Partner: Whatever, I'm clearly better than you.",contempt
+160,"Partner: Wow, how smart of you. Not.",contempt
+13,Partner: I guess everything is always my fault.,defensiveness
+36,Partner: (Ignores the question entirely),stonewalling
+29,Partner: You really are such a child.,contempt
+171,Partner: (Ignores the question entirely),stonewalling
+143,Partner: (Gets up and walks away mid-conversation),stonewalling
+399,Partner: You don't even try. It's pathetic.,contempt
+343,"Partner: Why are you like this all the time?
+Partner: (Leaves the room)","criticism,stonewalling"
+222,"Partner: You’re impossible to talk to.
+Partner: (Rolls eyes and says nothing)","criticism,stonewalling"
+96,Partner: (Gets up and walks away mid-conversation),stonewalling
+52,Partner: I guess everything is always my fault.,defensiveness
+241,"Partner: You misunderstood everything I said.
+Partner: You disgust me when you act like this.","defensiveness,contempt"
+485,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+379,"Partner: Whatever, I'm clearly better than you.",contempt
+179,"Partner: You disgust me when you act like this.
+Partner: (Rolls eyes and says nothing)","contempt,stonewalling"
+42,Partner: I only said that because you upset me.,defensiveness
+499,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+422,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+207,Partner: You’re impossible to talk to.,criticism
+283,"Partner: I only said that because you upset me.
+Partner: Why are you like this all the time?","defensiveness,criticism"
+255,Partner: You don't even try. It's pathetic.,contempt
+413,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+5,Partner: (Rolls eyes and says nothing),stonewalling
+257,Partner: (Looks at phone and doesn’t respond),stonewalling
+449,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+101,Partner: (Gets up and walks away mid-conversation),stonewalling
+227,Partner: You’re impossible to talk to.,criticism
+430,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+214,"Partner: (Gets up and walks away mid-conversation)
+Partner: You never take my feelings seriously.","stonewalling,criticism"
+172,"Partner: You disgust me when you act like this.
+Partner: You’re impossible to talk to.","contempt,criticism"
+99,Partner: You're the laziest person I know.,contempt
+293,"Partner: (Silence)
+Partner: Whatever, I'm clearly better than you.","stonewalling,contempt"
+216,Partner: This is just like you to screw things up.,criticism
+62,Partner: You’re impossible to talk to.,criticism
+48,Partner: You disgust me when you act like this.,contempt
+33,Partner: (Silence),stonewalling
+268,Partner: You disgust me when you act like this.,contempt
+328,Partner: You never take my feelings seriously.,criticism
+201,"Partner: (Looks at phone and doesn’t respond)
+Partner: You really are such a child.","stonewalling,contempt"
+447,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+28,"Partner: It’s not my fault, you started it!",defensiveness
+425,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+231,Partner: You're the laziest person I know.,contempt
+261,Partner: I only said that because you upset me.,defensiveness
+289,Partner: You don't even try. It's pathetic.,contempt
+163,"Partner: Maybe listen to yourself before judging me.
+Partner: You’re impossible to talk to.","defensiveness,criticism"
+426,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+139,Partner: I only said that because you upset me.,defensiveness
+63,Partner: You never think about anyone but me.,criticism
+136,Partner: (Rolls eyes and says nothing),stonewalling
+129,Partner: (Looks at phone and doesn’t respond),stonewalling
+477,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+9,Partner: You never think about anyone but me.,criticism
+327,"Partner: I only said that because you upset me.
+Partner: (Rolls eyes and says nothing)","defensiveness,stonewalling"
+464,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+65,Partner: (Silence),stonewalling
+301,Partner: This is just like you to screw things up.,criticism
+15,Partner: (Leaves the room),stonewalling
+157,Partner: You never take my feelings seriously.,criticism
+41,"Partner: Why are you blaming me again?
+Partner: This is just like you to screw things up.","defensiveness,criticism"
+380,Partner: You're the laziest person I know.,contempt
+469,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+404,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+217,"Partner: You really are such a child.
+Partner: You never think about anyone but me.","contempt,criticism"
+280,Partner: You really are such a child.,contempt
+435,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+431,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+338,Partner: You’re impossible to talk to.,criticism
+237,Partner: Why are you like this all the time?,criticism
+208,"Partner: I only said that because you upset me.
+Partner: (Silence)","defensiveness,stonewalling"
+213,Partner: Maybe listen to yourself before judging me.,defensiveness
+296,Partner: (Leaves the room),stonewalling
+458,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+252,Partner: You never take my feelings seriously.,criticism
+489,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+487,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+304,Partner: (Rolls eyes and says nothing),stonewalling
+351,Partner: You’re impossible to talk to.,criticism
+270,"Partner: (Leaves the room)
+Partner: You never take my feelings seriously.","stonewalling,criticism"
+202,Partner: This is just like you to screw things up.,criticism
+162,"Partner: This is just like you to screw things up.
+Partner: (Silence)","criticism,stonewalling"
+44,Partner: Why are you like this all the time?,criticism
+218,Partner: You’re impossible to talk to.,criticism
+402,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+191,Partner: (Ignores the question entirely),stonewalling
+310,Partner: You never take my feelings seriously.,criticism
+260,"Partner: Wow, how smart of you. Not.",contempt
+106,"Partner: (Rolls eyes and says nothing)
+Partner: You're the laziest person I know.","stonewalling,contempt"
+54,Partner: You always do this—you're so selfish.,criticism
+390,"Partner: (Looks at phone and doesn’t respond)
+Partner: You never think about anyone but me.","stonewalling,criticism"
+2,Partner: (Looks at phone and doesn’t respond),stonewalling
+442,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+483,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+50,Partner: (Silence),stonewalling
+420,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+81,Partner: (Leaves the room),stonewalling
+206,Partner: You disgust me when you act like this.,contempt
+35,"Partner: Wow, how smart of you. Not.",contempt
+264,"Partner: Why are you like this all the time?
+Partner: (Rolls eyes and says nothing)","criticism,stonewalling"
+428,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+367,"Partner: It’s not my fault, you started it!",defensiveness
+92,"Partner: Why are you blaming me again?
+Partner: You’re impossible to talk to.","defensiveness,criticism"
+340,"Partner: You never take my feelings seriously.
+Partner: (Gets up and walks away mid-conversation)","criticism,stonewalling"
+474,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+53,"Partner: Whatever, I'm clearly better than you.
+Partner: You never think about anyone but me.","contempt,criticism"
+346,Partner: You really are such a child.,contempt
+265,"Partner: (Looks at phone and doesn’t respond)
+Partner: Maybe listen to yourself before judging me.","stonewalling,defensiveness"
+242,Partner: Why are you blaming me again?,defensiveness
+14,Partner: Why are you like this all the time?,criticism
+316,"Partner: (Rolls eyes and says nothing)
+Partner: You disgust me when you act like this.","stonewalling,contempt"
+89,"Partner: I guess everything is always my fault.
+Partner: Whatever, I'm clearly better than you.","defensiveness,contempt"
+388,Partner: (Looks at phone and doesn’t respond),stonewalling
+274,Partner: You're the laziest person I know.,contempt
+167,Partner: You always do this—you're so selfish.,criticism
+329,Partner: This is just like you to screw things up.,criticism
+493,"Partner: Thanks for cleaning up earlier, I really appreciated that.
+Partner: Of course! I wanted to take some of the stress off you.",healthy
+135,"Partner: I only said that because you upset me.
+Partner: You always do this—you're so selfish.","defensiveness,criticism"
+307,Partner: Why are you like this all the time?,criticism
+481,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+320,"Partner: Whatever, I'm clearly better than you.
+Partner: It’s not my fault, you started it!","contempt,defensiveness"
+244,Partner: (Ignores the question entirely),stonewalling
+55,"Partner: (Silence)
+Partner: You're the laziest person I know.","stonewalling,contempt"
+364,"Partner: (Silence)
+Partner: I guess everything is always my fault.","stonewalling,defensiveness"
+51,Partner: You never think about anyone but me.,criticism
+457,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+175,Partner: I guess everything is always my fault.,defensiveness
+446,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+190,"Partner: Why are you like this all the time?
+Partner: Wow, how smart of you. Not.","criticism,contempt"
+497,"Partner: Can we make time to talk about our week?
+Partner: Yeah, I think that would help us feel more connected.",healthy
+188,Partner: You're the laziest person I know.,contempt
+170,Partner: I guess everything is always my fault.,defensiveness
+59,Partner: You're the laziest person I know.,contempt
+49,Partner: (Leaves the room),stonewalling
+345,"Partner: Wow, how smart of you. Not.
+Partner: (Rolls eyes and says nothing)","contempt,stonewalling"
+236,"Partner: (Ignores the question entirely)
+Partner: Maybe listen to yourself before judging me.","stonewalling,defensiveness"
+253,Partner: (Rolls eyes and says nothing),stonewalling
+22,"Partner: Wow, how smart of you. Not.",contempt
+314,"Partner: It’s not my fault, you started it!
+Partner: (Leaves the room)","defensiveness,stonewalling"
+460,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+161,Partner: You never take my feelings seriously.,criticism
+277,"Partner: I only said that because you upset me.
+Partner: This is just like you to screw things up.","defensiveness,criticism"
+444,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+192,Partner: You never think about anyone but me.,criticism
+386,Partner: You always do this—you're so selfish.,criticism
+294,Partner: (Rolls eyes and says nothing),stonewalling
+414,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+344,"Partner: It’s not my fault, you started it!",defensiveness
+258,"Partner: You never think about anyone but me.
+Partner: (Silence)","criticism,stonewalling"
+309,Partner: This is just like you to screw things up.,criticism
+150,"Partner: (Silence)
+Partner: This is just like you to screw things up.","stonewalling,criticism"
+131,"Partner: (Leaves the room)
+Partner: You misunderstood everything I said.","stonewalling,defensiveness"
+152,Partner: This is just like you to screw things up.,criticism
+360,Partner: I only said that because you upset me.,defensiveness
+100,"Partner: (Ignores the question entirely)
+Partner: It’s not my fault, you started it!","stonewalling,defensiveness"
+373,Partner: (Gets up and walks away mid-conversation),stonewalling
+88,Partner: You never take my feelings seriously.,criticism
+459,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+331,"Partner: You never think about anyone but me.
+Partner: You don't even try. It's pathetic.","criticism,contempt"
+215,Partner: Why are you blaming me again?,defensiveness
+467,"Partner: I felt upset when you didn’t text back earlier.
+Partner: I’m sorry. I didn’t realize it hurt you—I’ll be more thoughtful.",healthy
+122,Partner: You’re impossible to talk to.,criticism
+500,"Partner: I want to understand how you're feeling.
+Partner: I’ve just been really overwhelmed with work lately.",healthy
+21,Partner: Why are you blaming me again?,defensiveness
+189,Partner: (Rolls eyes and says nothing),stonewalling
+72,Partner: (Gets up and walks away mid-conversation),stonewalling
+107,Partner: This is just like you to screw things up.,criticism
+271,"Partner: Whatever, I'm clearly better than you.",contempt
+349,"Partner: Wow, how smart of you. Not.",contempt
+436,"Partner: You handled that conversation with my mom so well.
+Partner: Thanks, I was trying really hard to be respectful.",healthy
+103,Partner: You don't even try. It's pathetic.,contempt
